@@ -93,7 +93,7 @@ ansible-playbook -i inventory playbook.yml --ask-vault-pass
 ## 🎉 Project Completed
 Demonstrates:
 - Multi-stage Docker builds
-- Nginx reverse proxy
+- Docker Compose Networking & Secrets
 - Ansible automation
-- Secure secrets via Ansible Vault
-- Full end-to-end automated deployment
+- Secure Credentials Handling with Vault
+- Secure Credentials Handling with Vault
